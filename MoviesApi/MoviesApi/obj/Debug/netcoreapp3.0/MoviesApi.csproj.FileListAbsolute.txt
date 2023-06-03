@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\Starter_Project\MoviesApi\MoviesApi\obj\Debug\netcoreapp3.0\MoviesApi.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Starter_Project\MoviesApi\MoviesApi\obj\Debug\netcoreapp3.0\MoviesApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Starter_Project\MoviesApi\MoviesApi\obj\Debug\netcoreapp3.0\MoviesApi.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Starter_Project\MoviesApi\MoviesApi\obj\Debug\netcoreapp3.0\MoviesApi.AssemblyInfo.cs
+C:\Users\Student\Desktop\Starter_Project\MoviesApi\MoviesApi\obj\Debug\netcoreapp3.0\MoviesApi.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Starter_Project\MoviesApi\MoviesApi\obj\Debug\netcoreapp3.0\MoviesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Student\Desktop\Starter_Project\MoviesApi\MoviesApi\obj\Debug\netcoreapp3.0\MoviesApi.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dryde\\OneDrive\\Desktop\\Git Repository\\Mayvue\\MoviesApi\\MovieRepositoryTests\\MovieRepositoryTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dryde\\OneDrive\\Desktop\\Git Repository\\Mayvue\\MoviesApi\\MovieRepositoryTests\\MovieRepositoryTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dryde\\OneDrive\\Desktop\\Git Repository\\Mayvue\\MoviesApi\\MovieRepositoryTests\\MovieRepositoryTests.csproj",
+        "projectName": "MovieRepositoryTests",
+        "projectPath": "C:\\Users\\dryde\\OneDrive\\Desktop\\Git Repository\\Mayvue\\MoviesApi\\MovieRepositoryTests\\MovieRepositoryTests.csproj",
+        "packagesPath": "C:\\Users\\dryde\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dryde\\OneDrive\\Desktop\\Git Repository\\Mayvue\\MoviesApi\\MovieRepositoryTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dryde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dryde\\OneDrive\\Desktop\\Git Repository\\Mayvue\\MoviesApi\\MoviesApi\\MoviesApi.csproj": {
+                "projectPath": "C:\\Users\\dryde\\OneDrive\\Desktop\\Git Repository\\Mayvue\\MoviesApi\\MoviesApi\\MoviesApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dryde\\OneDrive\\Desktop\\Git Repository\\Mayvue\\MoviesApi\\MoviesApi\\MoviesApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dryde\\OneDrive\\Desktop\\Git Repository\\Mayvue\\MoviesApi\\MoviesApi\\MoviesApi.csproj",
+        "projectName": "MoviesApi",
+        "projectPath": "C:\\Users\\dryde\\OneDrive\\Desktop\\Git Repository\\Mayvue\\MoviesApi\\MoviesApi\\MoviesApi.csproj",
+        "packagesPath": "C:\\Users\\dryde\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dryde\\OneDrive\\Desktop\\Git Repository\\Mayvue\\MoviesApi\\MoviesApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dryde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

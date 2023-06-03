@@ -1,0 +1,4 @@
+﻿select name,[Release Year],LastName,BirthYear from MotionPictures as mp
+left join MotionPictureDirectors as mpd
+on mp.DirectorId = mpd.DirectorId
+where AcademyAward = 0;
